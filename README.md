@@ -1,0 +1,1 @@
+This is a front end project based on HTML,CSS,JAVASCRIPT.In this ,the users can be able to know the code of various simple problems like odd number,even number in 3 languages C,C++,python.The main thing in this was the users can check the output in the screen itself making them to undertand the code better.
